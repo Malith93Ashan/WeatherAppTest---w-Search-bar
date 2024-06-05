@@ -61,6 +61,7 @@ The app will not load your location until you search for a city.
 
 
 **Permissions**
+
 •	INTERNET: To fetch weather data from the OpenWeatherMap API.
 
 •	ACCESS_FINE_LOCATION: To access precise location data.

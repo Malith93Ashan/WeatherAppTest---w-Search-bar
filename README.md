@@ -2,9 +2,11 @@
 
 WeatherAppTest is a simple Android application that provides the current weather, temperature, and humidity for a specified location. The app uses the OpenWeatherMap API to fetch weather data and displays the current time, location, address, and weather information. Users can search for a location using the search bar, and the app saves and loads the last searched city for a seamless user experience. It uses java language and Kotlin DSL.
 
+
 **Note**
 
 The app will not load your location until you search for a city.
+
 
 **Features**
 
